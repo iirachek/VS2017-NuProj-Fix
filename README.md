@@ -1,8 +1,13 @@
 # VS2017-NuProj-Fix
-Fix for VS2017 NuProj error "AssignTargetFramework"
+Fix for Visual Studio 2017 NuProj error "AssignTargetFramework"
 
-Credit: https://github.com/dmalanij
+This repository is created to provide quick access to the required libraries. All credit for the solution goes to the original fix creator [dmalanij](https://github.com/dmalanij). I merely put everything in one place for easier access.
 
-Origin: https://github.com/nuproj/nuproj/issues/297
+## Sources
+Original fix creator [dmalanij](https://github.com/dmalanij)
 
-Place all libraries in C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Nuproj or the equivalent in your Visual Studio install path.
+Original [thread](https://github.com/nuproj/nuproj/issues/297)  
+
+## Installation
+Place all libraries in **C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Nuproj** or the equivalent in your Visual Studio install path.
+
