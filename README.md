@@ -8,6 +8,8 @@ Original fix creator [dmalanij](https://github.com/dmalanij)
 
 Original [thread](https://github.com/nuproj/nuproj/issues/297)  
 
+[NuGet Package Project](https://marketplace.visualstudio.com/items?itemName=NuProjTeam.NuGetPackageProject) 
+
 ## Installation
 Place all libraries in **C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Nuproj** or the equivalent in your Visual Studio install path.
 
